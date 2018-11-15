@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BO.cs](./CS/BO.cs) (VB: [BO.vb](./VB/BO.vb))
+* **[Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))**
+<!-- default file list end -->
 # How to add a complex index involving XPO service columns (GCRecord and ObjectType)
 
 
